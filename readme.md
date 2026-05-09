@@ -10,9 +10,9 @@ My purpose of creating this software is to see how well I can make little ideas 
 
 # Development Environment
 
-Visual studio code
-Python
+* Visual studio code
+* Python
 
 # Useful Websites
 
-* [Web Site Name](https://www.w3schools.com/python/)
+* [W3school](https://www.w3schools.com/python/)
