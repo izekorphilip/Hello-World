@@ -1,23 +1,18 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In the course learning, I hope to understand the concept of mobile application and develop one using and following the instruction in each choosen modules. I want to be able to bring my ideas to life in mobile devices.
 
-{Provide a description of your software}
+I plan to create a basic calculator application that allows users to perform common arithmetic operations in a simple and user-friendly interface. The software will be designed to handle addition, subtraction, multiplication, and division accurately while providing clear input and output for the user.
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+My purpose of creating this software is to see how well I can make little ideas come to life. I will be very proud to have my software use by me, family and friends.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+Visual studio code
+Python
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.w3schools.com/python/)
